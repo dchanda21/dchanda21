@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Dhruv here
+Dhrubojyoti Chanda here
 
 Here are some ideas to get you started:
 
