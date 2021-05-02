@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-<!--
-**dchanda21/dchanda21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dhruv here
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working as a Data Analyst - University of Illinois at Chicago..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
